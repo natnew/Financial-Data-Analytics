@@ -28,6 +28,8 @@ Team Included :<br>
 * Business Analyst/Ops Analyst
 * Head of Data Analytics
 
+![](https://github.com/natnew/Financial-Data-Analytics/blob/main/carlos-muza-hpjSkU2UYSU-unsplash.jpg)
+
 ### About The Data Set:
 
 This data set was taken from [Here](https://github.com/natnew/Financial-Data-Analytics)<br>
