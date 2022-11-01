@@ -47,6 +47,15 @@ The data has the following features:<br>
 * Charges - The customer's insurance charges
 * Children - Whether the customer has children & How many
 
+### Distribution By Age
+![](https://github.com/natnew/Financial-Data-Analytics/blob/main/Distribution%20of%20age.JPG)
+
+### Distribution By Number of Children
+![](https://github.com/natnew/Financial-Data-Analytics/blob/main/Number%20of%20Children.JPG)
+
+### Distribution By Number Charges
+![](https://github.com/natnew/Financial-Data-Analytics/blob/main/Distr%20by%20Charge.JPG)
+
 ### Data Cleaning:
 In this stage of the project, I cleaned the data and made specific changes like:<br>
 
