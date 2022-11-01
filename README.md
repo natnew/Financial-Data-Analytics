@@ -47,6 +47,22 @@ I asked the following questions:
 ### Exploratory Data Analysis(EDA):
 In this stage, I performed Exploratory Data Analysis on the cleaned data and got some insights:<br>
 
+#### BMI vs. Charges
+ ![](https://github.com/natnew/Financial-Data-Analytics/blob/main/BMI.png)
+
+#### BMI vs. Charges With Regression Line
+ ![](https://github.com/natnew/Financial-Data-Analytics/blob/main/BMI%20reg%20line.png)
+ 
+#### BMI vs. Charges by Smoker
+ ![](https://github.com/natnew/Financial-Data-Analytics/blob/main/BMI%20smoker.png)
+ 
+ #### BMI vs. Charges by Smoker With Regression Line
+ ![](https://github.com/natnew/Financial-Data-Analytics/blob/main/BMI%20smoker%20reg%20line.png)
+ 
+ #### Smoker vs. Charges 
+ ![](https://github.com/natnew/Financial-Data-Analytics/blob/main/Smoker.png)
+
+
 
 ### Data Presentation 
 The data insights were presented to stakeholders using Tableau.
