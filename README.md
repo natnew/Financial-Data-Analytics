@@ -1,5 +1,10 @@
 # Financial-Data-Analytics
-### Financial Data Analytics - Insurance Project
+## Financial Data Analytics - Insurance Project
+
+### Business Case
+* Price products based on policy holder behaviour
+* Gain customer insight and assess their experience
+* Gain customer insight and assess their experience
 
 In this project, I performed the following tasks:<br>
 
@@ -15,9 +20,17 @@ This is a data analytics project that:<br>
 * Looked for trends, patterns, and anomalies in the data.
 * Tested hypotheses and validated assumptions about the data.
 
+Team Included :<br>
+
+* Data Engineer
+* Data Scientist
+* Data Analyst
+* Business Analyst/Ops Analyst
+* Head of Data Analytics
+
 ### About The Data Set:
 
-This data set was taken from <br>
+This data set was taken from [Here](https://github.com/natnew/Financial-Data-Analytics)<br>
 
 The data has the following features:<br>
 
@@ -43,6 +56,8 @@ I asked the following questions:
 * Does it prove or disprove your working theory or bring any insight to light?
 * Can you find trends in the data to help you form your next theory?
 * If not, is that because of a data quality issue?
+
+[Notebook](https://github.com/natnew/Python-Projects-Data-Visualisation/blob/main/Data_Visualisation_for_Insuranceipynb.ipynb)
 
 ### Exploratory Data Analysis(EDA):
 In this stage, I performed Exploratory Data Analysis on the cleaned data and got some insights:<br>
