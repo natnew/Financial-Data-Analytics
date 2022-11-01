@@ -2,6 +2,8 @@
 ## Financial Data Analytics - Insurance Project
 
 ### Business Case
+The main goals throughout the analysis includes the following: <br>
+
 * Price products based on policy holder behaviour
 * Gain customer insight and assess their experience
 * Gain customer insight and assess their experience
@@ -33,15 +35,16 @@ Team Included :<br>
 ### About The Data Set:
 
 This data set was taken from [Here](https://github.com/natnew/Financial-Data-Analytics)<br>
+The data has been anonymised to comply with privacy regulations.<br>
 
 The data has the following features:<br>
 
-* Age 
-* Sex 
-* BMI
-* Smoker
-* Region
-* Charges
+* Age - The customer's age
+* Sex - The customer's sex
+* BMI - The customer's BMI
+* Smoker - Whether  the customer is or is not a smoker
+* Region - The region that the customer lives in
+* Charges - The customer's insurance charges
 
 ### Data Cleaning:
 In this stage of the project, I cleaned the data and made specific changes like:<br>
