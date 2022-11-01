@@ -45,6 +45,7 @@ The data has the following features:<br>
 * Smoker - Whether  the customer is or is not a smoker
 * Region - The region that the customer lives in
 * Charges - The customer's insurance charges
+* Children - Whether the customer has children & How many
 
 ### Data Cleaning:
 In this stage of the project, I cleaned the data and made specific changes like:<br>
